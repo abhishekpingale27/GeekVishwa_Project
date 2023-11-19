@@ -20,31 +20,59 @@ Park-Kar is a smart parking website that provides users with features to book pa
 
 - **User Authentication:** Secure login system with the ability to input and manage information about your cars.
 
--Usage
--Booking a Parking Space
-To book a parking space, follow these steps:
+## Usage
 
-1)Log in to your account.
-2)Navigate to the "Book Parking" section.
-3)Select the desired date and time.
-4)Choose an available parking space.
-5)Confirm your booking.
+### Booking a Parking Space
 
--Parking Space Locator
-Use the Parking Space Locator to find available spaces:
+1. **Log in to your account:**
+   - Navigate to the login page and provide your credentials.
+   - If you don't have an account, you can sign up for a new one.
 
-1)Access the "Locator" feature.
-2)Enter your location or allow the system to access your current location.
-3)View available parking spaces nearby.
+2. **Navigate to "Book Parking":**
+   - Once logged in, go to the "Book Parking" section.
 
--Adding a Parking Space
-Contribute to the community by adding a new parking space:
+3. **Select Date and Time:**
+   - Choose the desired date and time for which you need a parking space.
 
-1)Log in to your account.
-2)Go to the "Add Parking Space" section.
-3)Input information about the new parking space.
-4)Submit the details for review.
+4. **Choose an Available Parking Space:**
+   - Browse the available parking spaces based on your selected date and time.
+   - View details such as location, price, and availability.
 
+5. **Confirm Booking:**
+   - Select a parking space and proceed to confirm your booking.
+   - Receive confirmation details and any relevant information.
 
--User Authentication
-When logging in, provide your username and password. Additionally, input information about your cars for a personalized experience.
+### Parking Space Locator
+
+1. **Access the Locator Feature:**
+   - Navigate to the "Locator" feature on the website.
+
+2. **Enter Location Information:**
+   - Enter your desired location or allow the system to access your current location.
+
+3. **View Available Parking Spaces:**
+   - The system will display a map or a list of available parking spaces in the specified area.
+   - Additional details about each parking space may be provided.
+
+### Adding a Parking Space
+
+1. **Log in to Your Account:**
+   - Log in to your account to access additional features.
+
+2. **Go to "Add Parking Space":**
+   - Navigate to the "Add Parking Space" section.
+
+3. **Input Parking Space Details:**
+   - Fill in details about the new parking space, including location, pricing, and availability.
+
+4. **Submit for Review:**
+   - After providing all necessary information, submit the details for review.
+   - The administrator will review the submission and update the system accordingly.
+
+## User Authentication
+
+- **Log In:**
+  - Provide your username and password to access the features of the website.
+
+- **Manage Car Information:**
+  - After logging in, you can input and manage information about your cars for a personalized experience.
